@@ -1,5 +1,5 @@
 /**
- * Script to send test acceleration signal cart.
+ * Script to send acceleration signal to cart.
  * Calculates cart acceleration from sin curve.
  * Converts cart acceleration to angular acceleration of stepper motor.
  * Continously integrates angular acceleration to find instantaneous angular velocity.
